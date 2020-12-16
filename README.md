@@ -18,11 +18,13 @@
 
 ## External Reddit Tools
 - [cronnit.us](https://github.com/krisives/cronnit.us)
+- [PowerDownloadDeleteSuite](https://github.com/j0be/PowerDeleteSuite)
 
 ## Bot Creation Services
 - [Reddit-Bot](https://github.com/kylelobo/Reddit-Bot)
 - [Gooey](https://github.com/GooeyBot/Gooey)
 - [reddit OAuth2 Helper](https://github.com/not-an-aardvark/reddit-oauth-helper)
+- [RedditBot Template.js](https://github.com/web-temps/RedditBot-TemplateJS)
 
 ## Misc
 - [SourceRequestBot](https://github.com/AkitotheExiled/SourceRequestBot)
@@ -52,6 +54,8 @@
 - [Reddit Weather Sidebar](https://github.com/impshum/Reddit-Weather-Sidebar)
 - [Source Request Bot](https://github.com/AkitotheExiled/SourceRequestBot)
 - [Totes Messenger Bot](https://github.com/justcool393/TotesMessenger)
+- [Fast Parenthesis Bot](https://github.com/as-com/fast-parenthesis-bot)
+- [Competetive TFT Bot](https://github.com/lukenamop/comp-tft-bot)
 
 ## *Illegal* Bots
 Bots that do not abide by reddit ToS. For educational purposes only.
