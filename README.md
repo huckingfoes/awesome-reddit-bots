@@ -11,21 +11,19 @@
 ### [Misc](#misc)
 ### [Illegal Bots](#illegal-bots)
 
-
 ### Notable Bots
 #### RepostSleuthBot
-- created by (u/barrycarey)[https://reddit.com/u/barrycarey]
-- (website)[https://repostsleuth.com] 
-- (user)[https://reddit.com/u/repostsleuthbot] 
-- (subreddit)[https://reddit.com/r/repostsleuthbot]
+- created by [u/barrycarey](https://reddit.com/u/barrycarey)
+- [website](https://repostsleuth.com) 
+- [user](https://reddit.com/u/repostsleuthbot)
+- [subreddit](https://reddit.com/r/repostsleuthbot)
 #### AssistantBOT
-- created by (u/kungming2)[https://reddit.com/u/kungming2]
-- (website)[https://repostsleuth.com] 
-- (user)[https://reddit.com/u/assistantbot] 
-- (subreddit)[https://reddit.com/r/assistantbot]
+- created by [u/kungming2](https://reddit.com/u/kungming2)
+- [website](https://repostsleuth.com)
+- [user](https://reddit.com/u/assistantbot)
+- [subreddit](https://reddit.com/r/assistantbot)
 #### AutoModerator
-- created by (u/dequeued)[https://reddit.com/u/dequeued]
-- (website)[https://repostsleuth.com] 
+- created by [u/dequeued](https://reddit.com/u/dequeued)
 
 ### Bot Rankings
 - [Botranks](https://github.com/Brandawg93/Botranks)
