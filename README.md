@@ -1,22 +1,22 @@
 # Awesome Reddit Bots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Open source reddit bots, available for you to contribute to or run yourself.
+> Open and closed source reddit bots, with open sources choices available for you to contribute to or run yourself.
 
 
 ## Contents
 
-- [Bot Rankings](#bot-rankings)
-- [External Reddit Tools](#external-reddit-tools)
-- [Bot Creation Services](#bot-creation-services)
-- [Misc](#misc)
-- [Illegal Bots](#illegal-bots)
+### [Bot Rankings Bots](#bot-rankings)
+### [External Reddit Tools](#external-reddit-tools)
+### [Bot Creation Services](#bot-creation-services)
+### [Misc](#misc)
+### [Illegal Bots](#illegal-bots)
 
-## Bot Rankings
+### Bot Rankings
 
 - [Botranks](https://github.com/Brandawg93/Botranks)
 - [GoodBot_BadBot](https://github.com/woodske/GoodBot_BadBot)
 
-## External Reddit Tools
+### External Reddit Tools
 - [cronnit.us](https://github.com/krisives/cronnit.us)
 - [PowerDownloadDeleteSuite](https://github.com/j0be/PowerDeleteSuite)
 
@@ -26,13 +26,17 @@
 - [reddit OAuth2 Helper](https://github.com/not-an-aardvark/reddit-oauth-helper)
 - [RedditBot Template.js](https://github.com/web-temps/RedditBot-TemplateJS)
 
+
+## Repost Bots
+- [RepostSentinel](https://github.com/korbendallas-reddit/RepostSentinel)
+- [MAGIC_EYE_BOT](https://github.com/downfromthetrees/the_magic_eye)
+
+
 ## Misc
 - [SourceRequestBot](https://github.com/AkitotheExiled/SourceRequestBot)
 - [ChannelBot (v3)](https://github.com/Thomas-X/channelbot-3)
 - [Modlogs](https://github.com/vitosamson/modlogs)
 - [Alert-Bot-Reddit](https://github.com/tylerbrockett/Alert-Bot-Reddit)
-- [RepostSentinel](https://github.com/korbendallas-reddit/RepostSentinel)
-- [MAGIC_EYE_BOT](https://github.com/downfromthetrees/the_magic_eye)
 - [moderatelyhelpfulbot](https://github.com/antidense/moderatelyhelpfulbot)
 - [RepostCheckerBot](https://github.com/A1igator/RepostCheckerBot)
 - [RemindMeBot](https://github.com/Watchful1/RemindMeBot)
