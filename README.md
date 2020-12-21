@@ -4,15 +4,30 @@
 
 
 ## Contents
-
+## Notable Bots(#notable-bots)
 ### [Bot Rankings Bots](#bot-rankings)
 ### [External Reddit Tools](#external-reddit-tools)
 ### [Bot Creation Services](#bot-creation-services)
 ### [Misc](#misc)
 ### [Illegal Bots](#illegal-bots)
 
-### Bot Rankings
 
+### Notable Bots
+#### RepostSleuthBot
+- created by (u/barrycarey)[https://reddit.com/u/barrycarey]
+- (website)[https://repostsleuth.com] 
+- (user)[https://reddit.com/u/repostsleuthbot] 
+- (subreddit)[https://reddit.com/r/repostsleuthbot]
+#### AssistantBOT
+- created by (u/kungming2)[https://reddit.com/u/kungming2]
+- (website)[https://repostsleuth.com] 
+- (user)[https://reddit.com/u/assistantbot] 
+- (subreddit)[https://reddit.com/r/assistantbot]
+#### AutoModerator
+- created by (u/dequeued)[https://reddit.com/u/dequeued]
+- (website)[https://repostsleuth.com] 
+
+### Bot Rankings
 - [Botranks](https://github.com/Brandawg93/Botranks)
 - [GoodBot_BadBot](https://github.com/woodske/GoodBot_BadBot)
 
