@@ -1,5 +1,8 @@
 # Awesome Reddit Bots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![alt text](https://raw.githubusercontent.com/huckingfoes/awesome-reddit-bots/master/aa.png)
+
+
 > Open and closed source reddit bots, with open sources choices available for you to contribute to or run yourself.
 
 
