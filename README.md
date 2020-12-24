@@ -22,7 +22,6 @@
 - [subreddit](https://reddit.com/r/repostsleuthbot)
 #### AssistantBOT
 - created by [u/kungming2](https://reddit.com/u/kungming2)
-- [website](https://repostsleuth.com)
 - [user](https://reddit.com/u/assistantbot)
 - [subreddit](https://reddit.com/r/assistantbot)
 #### AutoModerator
