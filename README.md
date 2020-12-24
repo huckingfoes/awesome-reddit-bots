@@ -1,6 +1,7 @@
 # Awesome Reddit Bots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub labels](https://img.shields.io/github/labels/huckingfoes/awesome-reddit-bots/help%20wanted?style=flat-square)
 ![](https://img.shields.io/github/last-commit/huckingfoes/awesome-reddit-bots)
+![Visits Badge](https://badges.pufler.dev/visits/huckingfoes/awesome-reddit-bots)](https://badges.pufler.dev)
 ![alt text](https://raw.githubusercontent.com/huckingfoes/awesome-reddit-bots/master/aa.png)
 
 
