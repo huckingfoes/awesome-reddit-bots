@@ -31,6 +31,7 @@
 - [user](https://reddit.com/u/AutoModerator)
 - [subreddit](https://reddit.com/r/AutoModerator)
 
+
 ### Bot Rankings
 - [Botranks](https://github.com/Brandawg93/Botranks)
 - [GoodBot_BadBot](https://github.com/woodske/GoodBot_BadBot)
@@ -79,6 +80,7 @@
 - [Totes Messenger Bot](https://github.com/justcool393/TotesMessenger)
 - [Fast Parenthesis Bot](https://github.com/as-com/fast-parenthesis-bot)
 - [Competetive TFT Bot](https://github.com/lukenamop/comp-tft-bot)
+- [stabbot](https://gitlab.com/juergens/stabbot)
 
 ## *Illegal* Bots
 Bots that do not abide by reddit ToS. For educational purposes only.
