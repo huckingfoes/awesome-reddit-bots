@@ -17,22 +17,22 @@
 ## [Illegal Bots](#illegal-bots)
 
 ### Notable Bots
-#### RepostSleuthBot
-- created by [u/barrycarey](https://reddit.com/u/barrycarey)
+### RepostSleuthBot
+created by [u/barrycarey](https://reddit.com/u/barrycarey)
 - [website](https://repostsleuth.com) 
 - [user](https://reddit.com/u/repostsleuthbot)
 - [subreddit](https://reddit.com/r/repostsleuthbot)
-#### AssistantBOT
+### AssistantBOT
 - created by [u/kungming2](https://reddit.com/u/kungming2)
 - [user](https://reddit.com/u/assistantbot)
 - [subreddit](https://reddit.com/r/assistantbot)
-#### AutoModerator
-- created by [u/Deimorz](https://reddit.com/u/Deimorz)
+### AutoModerator
+created by [u/Deimorz](https://reddit.com/u/Deimorz)
 - [user](https://reddit.com/u/AutoModerator)
 - [subreddit](https://reddit.com/r/AutoModerator)
 
 
-### Bot Rankings
+## Bot Rankings
 - [Botranks](https://github.com/Brandawg93/Botranks)
 - [GoodBot_BadBot](https://github.com/woodske/GoodBot_BadBot)
 
