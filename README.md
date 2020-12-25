@@ -8,13 +8,13 @@
 > Open and closed source reddit bots, with open sources choices available for you to contribute to or run yourself.
 
 
-## Contents
+# Contents
 ## Notable Bots(#notable-bots)
-### [Bot Rankings Bots](#bot-rankings)
-### [External Reddit Tools](#external-reddit-tools)
-### [Bot Creation Services](#bot-creation-services)
-### [Misc](#misc)
-### [Illegal Bots](#illegal-bots)
+## [Bot Rankings Bots](#bot-rankings)
+## [External Reddit Tools](#external-reddit-tools)
+## [Bot Creation Services](#bot-creation-services)
+## [Misc](#misc)
+## [Illegal Bots](#illegal-bots)
 
 ### Notable Bots
 #### RepostSleuthBot
