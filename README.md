@@ -14,22 +14,22 @@
 ## [External Reddit Tools](#external-reddit-tools)
 ## [Bot Creation Services](#bot-creation-services)
 ## [Misc](#misc)
-## [Illegal Bots](#illegal-bots)
+## [Education-Only Bots](#education-only-bots)
 
 ### Notable Bots
-### RepostSleuthBot
+#### RepostSleuthBot
 created by [u/barrycarey](https://reddit.com/u/barrycarey)
 - [website](https://repostsleuth.com) 
 - [user](https://reddit.com/u/repostsleuthbot)
 - [subreddit](https://reddit.com/r/repostsleuthbot)
-### AssistantBOT
-- created by [u/kungming2](https://reddit.com/u/kungming2)
-- [user](https://reddit.com/u/assistantbot)
-- [subreddit](https://reddit.com/r/assistantbot)
-### AutoModerator
+#### AutoModerator
 created by [u/Deimorz](https://reddit.com/u/Deimorz)
 - [user](https://reddit.com/u/AutoModerator)
 - [subreddit](https://reddit.com/r/AutoModerator)
+#### AssistantBOT
+- created by [u/kungming2](https://reddit.com/u/kungming2)
+- [user](https://reddit.com/u/assistantbot)
+- [subreddit](https://reddit.com/r/assistantbot)
 
 
 ## Bot Rankings
@@ -82,14 +82,13 @@ created by [u/Deimorz](https://reddit.com/u/Deimorz)
 - [Competetive TFT Bot](https://github.com/lukenamop/comp-tft-bot)
 - [stabbot](https://gitlab.com/juergens/stabbot)
 
-## *Illegal* Bots
+## *education-only* Bots
 Bots that do not abide by reddit ToS. For educational purposes only.
 
 - [reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
 - [comments-generator](https://github.com/PhantomInsights/comments-generator)
 - [reddit-comment-bot](https://github.com/yashar1/reddit-comment-bot)
 - [reddit-bot-account-maker](https://github.com/WilliamHYZhang/Reddit-Bot-Account-Maker)
-- 
 
 
 ## Contribute
