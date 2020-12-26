@@ -9,12 +9,12 @@
 
 
 # Contents
-## Notable Bots(#notable-bots)
-## [Bot Rankings Bots](#bot-rankings)
-## [External Reddit Tools](#external-reddit-tools)
-## [Bot Creation Services](#bot-creation-services)
-## [Misc](#misc)
-## [Education-Only Bots](#education-only-bots)
+### Notable Bots(#notable-bots)
+### [Bot Rankings Bots](#bot-rankings)
+### [External Reddit Tools](#external-reddit-tools)
+### [Bot Creation Services](#bot-creation-services)
+### [Misc](#misc)
+### [Education-Only Bots](#education-only-bots)
 
 ### Notable Bots
 #### RepostSleuthBot
@@ -22,7 +22,7 @@ created by [u/barrycarey](https://reddit.com/u/barrycarey)
 - [website](https://repostsleuth.com) 
 - [user](https://reddit.com/u/repostsleuthbot)
 - [subreddit](https://reddit.com/r/repostsleuthbot)
-#### AutoModerator
+#### AutoModeratorformatting
 created by [u/Deimorz](https://reddit.com/u/Deimorz)
 - [user](https://reddit.com/u/AutoModerator)
 - [subreddit](https://reddit.com/r/AutoModerator)
