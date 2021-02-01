@@ -22,12 +22,19 @@
   - created by [u/kungming2](https://reddit.com/u/kungming2)
   
   # Contents
-## [Bot Rankings](#bot-rankings)
-## [External Tools](#external-reddit-tools)
-## [Bot Creation](#bot-creation-services)
-## [Unsorted](#misc)
-## [Against-Bottiquette](#education-only-bots)
+  Central Contents
+### [Bot Rankings](#bot-rankings)
+- Bots and leaderboards for top reddit bots
+### [External Tools](#external-reddit-tools)
+- External tools regarding reddit.
+### [Bot Creation](#bot-creation-services)
+- Making other bots!
+### [Unsorted](#misc)
+- Unorganized bots.
+### [Against-Bottiquette](#education-only-bots)
+- Bots that may go against reddit's ToS. These may get your account banned or facilitate rule breaking. Proceed with caution.
 
+---
 ## Bot Rankings
 - [Botranks](https://github.com/Brandawg93/Botranks)
 - [GoodBot_BadBot](https://github.com/woodske/GoodBot_BadBot)
