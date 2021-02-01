@@ -5,31 +5,28 @@
 ![alt text](https://raw.githubusercontent.com/huckingfoes/awesome-reddit-bots/master/aa.png)
 
 
-> Open and closed source reddit bots, with open sources choices available for you to contribute to or run yourself.
+ Mostly open-source (and some closed-source) reddit bots, with open source choices available for you to contribute to or run yourself.
 
+# Notable Bots
 
-# Contents
-### Notable Bots(#notable)
-### [Bot Rankings Bots](#bot-rankings)
-### [External Reddit Tools](#external-reddit-tools)
-### [Bot Creation Services](#bot-creation-services)
-### [Misc](#misc)
-### [Education-Only Bots](#education-only-bots)
-
-### notable
-- [u/RepostSleuthBot](https://reddit.com/u/repostsleuthbot)
-created by [u/barrycarey](https://reddit.com/u/barrycarey)
-[website](https://repostsleuth.com) 
-[subreddit](https://reddit.com/r/repostsleuthbot)
-#### AutoModeratorformatting
-created by [u/Deimorz](https://reddit.com/u/Deimorz)
-- [user](https://reddit.com/u/AutoModerator)
-- [subreddit](https://reddit.com/r/AutoModerator)
-#### AssistantBOT
-- created by [u/kungming2](https://reddit.com/u/kungming2)
-- [user](https://reddit.com/u/assistantbot)
-- [subreddit](https://reddit.com/r/assistantbot)
-
+### [u/RepostSleuthBot](https://reddit.com/u/repostsleuthbot)
+  - created by [u/barrycarey](https://reddit.com/u/barrycarey)
+  - [website](https://repostsleuth.com) 
+  - [subreddit](https://reddit.com/r/repostsleuthbot)
+  - [repository](https://github.com)
+### [AutoModerator](https://reddit.com/u/AutoModerator)
+  - [subreddit](https://reddit.com/r/AutoModerator)
+### [AssistantBOT](https://reddit.com/u/assistantbot)
+  - created by [u/Deimorz](https://reddit.com/u/Deimorz)
+  - [subreddit](https://reddit.com/r/assistantbot)
+  - created by [u/kungming2](https://reddit.com/u/kungming2)
+  
+  # Contents
+## [Bot Rankings](#bot-rankings)
+## [External Tools](#external-reddit-tools)
+## [Bot Creation](#bot-creation-services)
+## [Unsorted](#misc)
+## [Against-Bottiquette](#education-only-bots)
 
 ## Bot Rankings
 - [Botranks](https://github.com/Brandawg93/Botranks)
